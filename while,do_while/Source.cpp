@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 //#include<conio.h>
 
 using namespace std;
@@ -20,7 +20,7 @@ void main()
 	setlocale(LC_ALL, "");
 	double a, b;
 	char s;
-	cout << "Ââåäèòå àðèôìåòè÷åñêîå äåéñòâèå: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð°Ñ€Ð¸Ñ„Ð¼ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ: ";
 	cin >> a >> s >> b;
 	switch(s)
 	{
